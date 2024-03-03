@@ -11,7 +11,7 @@
 #pragma compile(ProductName, TEST Commander)
 #pragma compile(ProductVersion, 1.5)
 #pragma compile(FileVersion, 1.5)
-#pragma compile(LegalCopyright, Written by Harkonan aKa harkypoo)
+#pragma compile(LegalCopyright, Written by Jon Schoenberger
 
 $Skin_Folder = "C:\Users\Jon\Google Drive\Test Commander\TEST"
 
